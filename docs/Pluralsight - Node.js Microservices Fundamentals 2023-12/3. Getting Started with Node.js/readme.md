@@ -22,7 +22,7 @@ This is the readme file for the 3. Getting Started with Node.js folder.
 ## 4. Demo - Setting up Node.JS
 ![img_13.png](img_13.png)
 ## 5. Understanding Node Basics
-
+![img_14.png](img_14.png)
 ## 6. Understanding Asyncronous Javascript
 
 ## 7. Handling Errors
