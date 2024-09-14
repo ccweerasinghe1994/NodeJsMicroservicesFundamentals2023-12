@@ -22,3 +22,4 @@ This is the readme file for the 2. Introduction folder.
 ![img_13.png](img_13.png)
 ## 5. Demo - Exploring the Vehicle Service API
 
+![img_14.png](img_14.png)
