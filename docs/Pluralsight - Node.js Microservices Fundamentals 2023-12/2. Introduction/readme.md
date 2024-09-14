@@ -2,13 +2,13 @@
 
 This is the readme file for the 2. Introduction folder.
 
-## 1. Introduction.mp4
+## 1. Introduction
 
-## 2. Introducing our Scenario.mp4
+## 2. Introducing our Scenario
 
-## 3. Understanding Micro Service Architectures.mp4
+## 3. Understanding Micro Service Architectures
 
-## 4. Introducing Node.JS.mp4
+## 4. Introducing Node.JS
 
-## 5. Demo - Exploring the Vehicle Service API.mp4
+## 5. Demo - Exploring the Vehicle Service API
 
