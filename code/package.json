@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "watch": "tsc -w",
+    "buid": "tsc",
     "start": "node --watch-path=./dist ./dist/app.js"
   },
   "keywords": [],
