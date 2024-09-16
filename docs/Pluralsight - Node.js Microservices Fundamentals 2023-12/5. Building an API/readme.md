@@ -477,6 +477,8 @@ export {getAllVehicles, getVehicleById, updateVehicleById, deleteVehicleById};
 
 ```
 ## 5. Hosting a Micro Service
-
+![alt text](image-11.png)
+![alt text](image-12.png)
+![alt text](image-13.png)
 ## 6. Demo - Deploying a Micro Service
 

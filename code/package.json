@@ -4,8 +4,9 @@
   "main": "index.js",
   "scripts": {
     "watch": "tsc -w",
-    "buid": "tsc",
-    "start": "node --watch-path=./dist ./dist/app.js"
+    "build": "tsc",
+    "start": "node --watch-path=./dist ./dist/app.js",
+    "prod": "node ./dist/app.js"
   },
   "keywords": [],
   "author": "",
